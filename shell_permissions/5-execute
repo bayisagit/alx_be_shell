@@ -1,3 +1,2 @@
 #!/bin/bash
 echo -e 'chmod 744 hello' >> 5-execute
-
