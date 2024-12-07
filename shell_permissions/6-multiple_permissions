@@ -1,3 +1,2 @@
 #!/bin/bash
-echo 'chmod 754 hello' >> 6-multiple_permissions
-
+echo -e 'chmod 754 hello' >> 6-multiple_permissions
