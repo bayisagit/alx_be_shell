@@ -1,0 +1,3 @@
+#!/bin/bash
+echo 'chmod 753 hello' >> 9-John_Doe
+
